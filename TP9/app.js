@@ -18,3 +18,4 @@ botonverificar.onclick = function () {
     
     p1.textContent = verificar(Number(input1.value), Number(input2.value))
 }
+ 
