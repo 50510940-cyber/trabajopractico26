@@ -1,4 +1,5 @@
 //Actividad 1
+/*
 let utiles = ["Lápiz", "Goma", "Regla", "Cuaderno", "Lapicera"];
 let p = document.querySelector('p')
 let input = document.querySelector('input')
@@ -36,7 +37,12 @@ boton2.onclick = function () {
 boton3.onclick = function () {
     utiles.shift ()
 }
-
+*/
 //Actividad 2
 
-let productos =  ["Leche", "Pan", "", "Cuaderno", "Lapicera"];
+let productos =  ["Leche", "Pan", "", "Arroz", "Fideos", "Aceite"];
+let boton1 = document.querySelector('#boton1')
+let boton2 = document.querySelector('#boton2')
+let boton3 = document.querySelector('#boton3')
+let boton4 = document.querySelector('#boton4')
+let boton5 = document.querySelector('#boton5')
