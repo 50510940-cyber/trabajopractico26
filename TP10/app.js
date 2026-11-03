@@ -38,3 +38,5 @@ boton3.onclick = function () {
 }
 
 //Actividad 2
+
+let productos =  ["Leche", "Pan", "", "Cuaderno", "Lapicera"];
